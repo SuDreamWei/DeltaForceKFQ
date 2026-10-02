@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <RootNamespace>DeltaHarmonica.PlaybackCheck</RootNamespace>
+    <AssemblyName>PlaybackCheck</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\..\src\Models\Song.cs" Link="Models\Song.cs" />
+    <Compile Include="..\..\src\Services\PlaybackEngine.cs" Link="Services\PlaybackEngine.cs" />
+    <Compile Include="..\..\src\Interop\InputSimulator.cs" Link="Interop\InputSimulator.cs" />
+  </ItemGroup>
+
+</Project>

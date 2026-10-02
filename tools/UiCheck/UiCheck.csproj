@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <RootNamespace>DeltaHarmonica.UiCheck</RootNamespace>
+    <AssemblyName>UiCheck</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\..\src\**\*.cs" LinkBase="App" />
+    <Compile Include="..\..\App.xaml.cs" LinkBase="App" />
+    <Page Include="..\..\App.xaml" Link="App.xaml" />
+    <Page Include="..\..\src\Views\MainWindow.xaml" Link="Views\MainWindow.xaml" />
+    <Page Include="..\..\src\Views\RenameDialog.xaml" Link="Views\RenameDialog.xaml" />
+    <Page Include="..\..\src\Views\Theme.xaml" Link="Views\Theme.xaml" />
+  </ItemGroup>
+
+</Project>

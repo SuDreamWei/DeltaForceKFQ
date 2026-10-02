@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <RootNamespace>DeltaHarmonica.LockCheck</RootNamespace>
+    <AssemblyName>LockCheck</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\..\src\Interop\InputLock.cs" Link="Interop\InputLock.cs" />
+    <Compile Include="..\..\src\Interop\InputSimulator.cs" Link="Interop\InputSimulator.cs" />
+  </ItemGroup>
+
+</Project>

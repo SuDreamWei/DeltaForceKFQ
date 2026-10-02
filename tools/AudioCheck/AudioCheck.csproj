@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <RootNamespace>DeltaHarmonica.AudioCheck</RootNamespace>
+    <AssemblyName>AudioCheck</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\..\src\Models\Song.cs" Link="Models\Song.cs" />
+    <Compile Include="..\..\src\Services\AuditionPlayer.cs" Link="Services\AuditionPlayer.cs" />
+  </ItemGroup>
+
+</Project>

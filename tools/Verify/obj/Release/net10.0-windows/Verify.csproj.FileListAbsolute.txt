@@ -1,0 +1,14 @@
+D:\WorkArea\DeltaHarmonicaWPF\tools\Verify\obj\Release\net10.0-windows\Verify.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkArea\DeltaHarmonicaWPF\tools\Verify\obj\Release\net10.0-windows\Verify.AssemblyInfoInputs.cache
+D:\WorkArea\DeltaHarmonicaWPF\tools\Verify\obj\Release\net10.0-windows\Verify.AssemblyInfo.cs
+D:\WorkArea\DeltaHarmonicaWPF\tools\Verify\obj\Release\net10.0-windows\Verify.csproj.CoreCompileInputs.cache
+D:\WorkArea\DeltaHarmonicaWPF\tools\Verify\bin\Release\net10.0-windows\Verify.exe
+D:\WorkArea\DeltaHarmonicaWPF\tools\Verify\bin\Release\net10.0-windows\Verify.deps.json
+D:\WorkArea\DeltaHarmonicaWPF\tools\Verify\bin\Release\net10.0-windows\Verify.runtimeconfig.json
+D:\WorkArea\DeltaHarmonicaWPF\tools\Verify\bin\Release\net10.0-windows\Verify.dll
+D:\WorkArea\DeltaHarmonicaWPF\tools\Verify\bin\Release\net10.0-windows\Verify.pdb
+D:\WorkArea\DeltaHarmonicaWPF\tools\Verify\obj\Release\net10.0-windows\Verify.dll
+D:\WorkArea\DeltaHarmonicaWPF\tools\Verify\obj\Release\net10.0-windows\refint\Verify.dll
+D:\WorkArea\DeltaHarmonicaWPF\tools\Verify\obj\Release\net10.0-windows\Verify.pdb
+D:\WorkArea\DeltaHarmonicaWPF\tools\Verify\obj\Release\net10.0-windows\Verify.genruntimeconfig.cache
+D:\WorkArea\DeltaHarmonicaWPF\tools\Verify\obj\Release\net10.0-windows\ref\Verify.dll

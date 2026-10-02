@@ -1,0 +1,14 @@
+D:\WorkArea\DeltaHarmonicaWPF\tools\PlaybackCheck\bin\Release\net10.0-windows\PlaybackCheck.exe
+D:\WorkArea\DeltaHarmonicaWPF\tools\PlaybackCheck\bin\Release\net10.0-windows\PlaybackCheck.deps.json
+D:\WorkArea\DeltaHarmonicaWPF\tools\PlaybackCheck\bin\Release\net10.0-windows\PlaybackCheck.runtimeconfig.json
+D:\WorkArea\DeltaHarmonicaWPF\tools\PlaybackCheck\bin\Release\net10.0-windows\PlaybackCheck.dll
+D:\WorkArea\DeltaHarmonicaWPF\tools\PlaybackCheck\bin\Release\net10.0-windows\PlaybackCheck.pdb
+D:\WorkArea\DeltaHarmonicaWPF\tools\PlaybackCheck\obj\Release\net10.0-windows\PlaybackCheck.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkArea\DeltaHarmonicaWPF\tools\PlaybackCheck\obj\Release\net10.0-windows\PlaybackCheck.AssemblyInfoInputs.cache
+D:\WorkArea\DeltaHarmonicaWPF\tools\PlaybackCheck\obj\Release\net10.0-windows\PlaybackCheck.AssemblyInfo.cs
+D:\WorkArea\DeltaHarmonicaWPF\tools\PlaybackCheck\obj\Release\net10.0-windows\PlaybackCheck.csproj.CoreCompileInputs.cache
+D:\WorkArea\DeltaHarmonicaWPF\tools\PlaybackCheck\obj\Release\net10.0-windows\PlaybackCheck.dll
+D:\WorkArea\DeltaHarmonicaWPF\tools\PlaybackCheck\obj\Release\net10.0-windows\refint\PlaybackCheck.dll
+D:\WorkArea\DeltaHarmonicaWPF\tools\PlaybackCheck\obj\Release\net10.0-windows\PlaybackCheck.pdb
+D:\WorkArea\DeltaHarmonicaWPF\tools\PlaybackCheck\obj\Release\net10.0-windows\PlaybackCheck.genruntimeconfig.cache
+D:\WorkArea\DeltaHarmonicaWPF\tools\PlaybackCheck\obj\Release\net10.0-windows\ref\PlaybackCheck.dll

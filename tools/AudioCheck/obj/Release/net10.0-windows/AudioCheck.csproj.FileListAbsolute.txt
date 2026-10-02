@@ -1,0 +1,14 @@
+D:\WorkArea\DeltaHarmonicaWPF\tools\AudioCheck\bin\Release\net10.0-windows\AudioCheck.exe
+D:\WorkArea\DeltaHarmonicaWPF\tools\AudioCheck\bin\Release\net10.0-windows\AudioCheck.deps.json
+D:\WorkArea\DeltaHarmonicaWPF\tools\AudioCheck\bin\Release\net10.0-windows\AudioCheck.runtimeconfig.json
+D:\WorkArea\DeltaHarmonicaWPF\tools\AudioCheck\bin\Release\net10.0-windows\AudioCheck.dll
+D:\WorkArea\DeltaHarmonicaWPF\tools\AudioCheck\bin\Release\net10.0-windows\AudioCheck.pdb
+D:\WorkArea\DeltaHarmonicaWPF\tools\AudioCheck\obj\Release\net10.0-windows\AudioCheck.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkArea\DeltaHarmonicaWPF\tools\AudioCheck\obj\Release\net10.0-windows\AudioCheck.AssemblyInfoInputs.cache
+D:\WorkArea\DeltaHarmonicaWPF\tools\AudioCheck\obj\Release\net10.0-windows\AudioCheck.AssemblyInfo.cs
+D:\WorkArea\DeltaHarmonicaWPF\tools\AudioCheck\obj\Release\net10.0-windows\AudioCheck.csproj.CoreCompileInputs.cache
+D:\WorkArea\DeltaHarmonicaWPF\tools\AudioCheck\obj\Release\net10.0-windows\AudioCheck.dll
+D:\WorkArea\DeltaHarmonicaWPF\tools\AudioCheck\obj\Release\net10.0-windows\refint\AudioCheck.dll
+D:\WorkArea\DeltaHarmonicaWPF\tools\AudioCheck\obj\Release\net10.0-windows\AudioCheck.pdb
+D:\WorkArea\DeltaHarmonicaWPF\tools\AudioCheck\obj\Release\net10.0-windows\AudioCheck.genruntimeconfig.cache
+D:\WorkArea\DeltaHarmonicaWPF\tools\AudioCheck\obj\Release\net10.0-windows\ref\AudioCheck.dll

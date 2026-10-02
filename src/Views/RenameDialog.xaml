@@ -1,0 +1,27 @@
+<Window x:Class="DeltaHarmonica.Views.RenameDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="重命名" Height="190" Width="420"
+        WindowStartupLocation="CenterOwner"
+        ResizeMode="NoResize"
+        Background="{StaticResource BgBrush}"
+        FontFamily="{StaticResource UiFont}"
+        Foreground="{StaticResource TextBrush}">
+    <Grid Margin="22">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Text="新的歌曲名称" Style="{StaticResource Body}" />
+        <TextBox Grid.Row="1" x:Name="NameBox" Style="{StaticResource Field}" Margin="0,8,0,0" />
+
+        <StackPanel Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Right">
+            <Button Content="取消" Style="{StaticResource GhostButton}" Click="Cancel_Click" />
+            <Button Content="确定" Style="{StaticResource PrimaryButton}" Margin="10,0,0,0"
+                    Click="Ok_Click" IsDefault="True" />
+        </StackPanel>
+    </Grid>
+</Window>
